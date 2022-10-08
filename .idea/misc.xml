@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Programming/Android/ODC_AMIT/EcommerceTask/app/src/main/res/layout/activity_main.xml" value="0.19444444444444445" />
+        <entry key="..\:/Programming/Android/ODC_AMIT/EcommerceTask/app/src/main/res/layout/activity_product.xml" value="0.24582701062215478" />
+        <entry key="..\:/Programming/Android/ODC_AMIT/EcommerceTask/app/src/main/res/layout/heading_item.xml" value="0.3234375" />
+        <entry key="..\:/Programming/Android/ODC_AMIT/EcommerceTask/app/src/main/res/layout/product_image.xml" value="0.3234375" />
         <entry key="..\:/Programming/Android/ODC_AMIT/EcommerceTask/app/src/main/res/layout/product_item.xml" value="0.33" />
       </map>
     </option>

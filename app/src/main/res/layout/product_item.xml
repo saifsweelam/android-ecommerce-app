@@ -10,7 +10,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingVertical="16dp"
+        android:paddingBottom="16dp"
         android:orientation="vertical">
 
         <ImageView
@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="150dp"
             tools:src="@drawable/thumbnail"
-            android:scaleType="centerInside"/>
+            android:scaleType="centerCrop"/>
 
         <TextView
             android:id="@+id/nameView"
